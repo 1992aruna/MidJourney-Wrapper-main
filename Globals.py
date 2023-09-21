@@ -1,12 +1,12 @@
 #strings
 
-DAVINCI_TOKEN = "MTE1MTUxNjAwNzY2ODY1MDAyNQ.GmS5nc.TcE-OgtzcZAYUYQDgY-9o4syRq_vSWWtfUwX0o"
+DAVINCI_TOKEN = [Token of Discord bot]
 
-SERVER_ID = 662267976984297473
+SERVER_ID = [Server id here]
 
-SALAI_TOKEN = "MTE1MTUxNjAwNzY2ODY1MDAyNQ.GmS5nc.TcE-OgtzcZAYUYQDgY-9o4syRq_vSWWtfUwX0o"
+SALAI_TOKEN = [Token of the Account from which you paid MidJourney ]
 
-CHANNEL_ID = 1154289000866131980
+CHANNEL_ID = [Channel in which commands are sent]
 
 #boolean
 USE_MESSAGED_CHANNEL = False
