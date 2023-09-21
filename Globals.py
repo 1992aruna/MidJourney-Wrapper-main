@@ -1,0 +1,17 @@
+#strings
+
+DAVINCI_TOKEN = "MTE1MTUxNjAwNzY2ODY1MDAyNQ.GmS5nc.TcE-OgtzcZAYUYQDgY-9o4syRq_vSWWtfUwX0o"
+
+SERVER_ID = 662267976984297473
+
+SALAI_TOKEN = "MTE1MTUxNjAwNzY2ODY1MDAyNQ.GmS5nc.TcE-OgtzcZAYUYQDgY-9o4syRq_vSWWtfUwX0o"
+
+CHANNEL_ID = 1154289000866131980
+
+#boolean
+USE_MESSAGED_CHANNEL = False
+
+#don't edit the following variable
+MID_JOURNEY_ID = "936929561302675456"  #midjourney bot id
+targetID       = ""
+targetHash     = ""
